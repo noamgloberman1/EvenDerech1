@@ -69,5 +69,5 @@ public class Word {
         result = 31 * result + (vertical ? 1 : 0);
         return result;
     }
-    
+
 }
